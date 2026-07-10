@@ -24,10 +24,6 @@ I'm a Computer Engineering student passionate about understanding how networks w
 
 I enjoy building real-world networking tools with Python and Linux, learning offensive and defensive security concepts, and continuously improving my engineering skills.
 
-🎯 Goal:
-
-Become a Network & Cybersecurity Engineer and pursue a Master's degree in Germany.
-
 ---
 
 # 🚀 Current Focus
@@ -36,8 +32,6 @@ Become a Network & Cybersecurity Engineer and pursue a Master's degree in German
 - 🔐 Cybersecurity
 - 🐍 Python
 - 🐧 Linux
-- ⚡ Automation
-- 📡 Packet Analysis
 
 ---
 
@@ -45,53 +39,9 @@ Become a Network & Cybersecurity Engineer and pursue a Master's degree in German
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,linux,bash,c,git,docker,vscode,github"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,php,java,linux,bash,docker,github,git"/>
 
 </p>
-
----
-
-# 📚 Currently Learning
-
-- Network Security
-- Packet Analysis
-- Socket Programming
-- Wireshark
-- Nmap
-- Linux Administration
-- Network Automation
-
----
-
-# 🚀 Featured Projects
-
-## 🔹 Packet Sniffer
-
-Python packet sniffer built using Raw Sockets.
-
-Features
-
-- Ethernet Parsing
-- IPv4 Parsing
-- TCP Parsing
-- UDP Parsing
-- Modular Architecture
-
-Repository
-
-➡️ https://github.com/OaaMatin/Packet-Sniffer
-
----
-
-## 🔹 Upcoming Projects
-
-- Port Scanner
-- Network Scanner
-- ARP Scanner
-- DNS Resolver
-- HTTP Proxy
-- SSH Automation
-- Vulnerability Scanner
 
 ---
 
@@ -137,12 +87,24 @@ Repository
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/OaaMatin">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/matinostadaliakbari">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://t.me/Matin_OAA">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="mailto:matinostadaliakbari1385@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
