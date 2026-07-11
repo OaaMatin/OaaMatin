@@ -12,7 +12,17 @@ Computer Engineering Student • Network & Cybersecurity Enthusiast
 
 <p align="center">
 
-Building tools • Learning every day • Exploring networks
+<a href="https://www.linkedin.com/in/matinostadaliakbari">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:matinostadaliakbari1385@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://t.me/Matin_OAA">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
 
 </p>
 
@@ -60,25 +70,5 @@ I enjoy building real-world networking tools with Python and Linux, learning off
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=OaaMatin&theme=tokyo-night"/>
-
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/matinostadaliakbari">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:matinostadaliakbari1385@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://t.me/Matin_OAA">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
 
 </p>
