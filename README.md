@@ -49,7 +49,7 @@ I enjoy building real-world networking tools with Python and Linux, learning off
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,python,c,cpp,javascript,java,bash,docker,github,git"/>
+<img src="https://skillicons.dev/icons?i=linux,python,c,cpp,dotnet,javascript,java,bash,docker,github,git"/>
 
 </p>
 
