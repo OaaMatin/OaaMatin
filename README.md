@@ -1,74 +1,81 @@
-<p align="center">
-  <img src="images/banner.png" width="100%">
-</p>
+<div align="center">
 
-<h1 align="center">
-Hi 👋 I'm Matin
-</h1>
+<img src="images/banner.png" width="100%">
 
-<h3 align="center">
-Computer Engineering Student • Network & Cybersecurity Enthusiast
-</h3>
+# Hi, I'm Matin 👋
 
-<p align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Network+%26+Cybersecurity+Enthusiast;.NET+Developer+in+progress)](https://git.io/typing-svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matinostadaliakbari)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matinostadaliakbari1385@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Matin_OAA)
 
-<a href="https://www.linkedin.com/in/matinostadaliakbari">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</div>
 
-<a href="mailto:matinostadaliakbari1385@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br>
 
-<a href="https://t.me/Matin_OAA">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
+## 💫 About Me
 
-</p>
+I'm a Computer Engineering student focused on understanding how networks work and how they can be secured. I like building real-world networking tools with Python and Linux, exploring both offensive and defensive security concepts, and I'm currently expanding into backend development with **.NET / ASP.NET Core**.
 
----
+I learn best by building — most of my projects start as "let me see how this actually works" rather than following a tutorial line by line.
 
-# 💫 About Me
+<br>
 
-I'm a Computer Engineering student passionate about understanding how networks work and how they can be secured.
+## 🚀 Current Focus
 
-I enjoy building real-world networking tools with Python and Linux, learning offensive and defensive security concepts, and continuously improving my engineering skills.
+```text
+🌐  Computer Networks
+🔐  Cybersecurity (offensive & defensive fundamentals)
+🐍  Python
+🧩  .NET / ASP.NET Core
+🐧  Linux
+```
 
----
+<br>
 
-# 🚀 Current Focus
+## 🛠 Tech Stack
 
-- 🌐 Computer Networks
-- 🔐 Cybersecurity
-- 🐍 Python
-- 🐧 Linux
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=linux,python,c,cpp,dotnet,javascript,java,bash,docker,github,git" />
 
-# 🛠 Tech Stack
+</div>
 
-<p align="center">
+<br>
 
-<img src="https://skillicons.dev/icons?i=linux,python,c,cpp,dotnet,javascript,java,bash,docker,github,git"/>
+## 📊 GitHub Stats
 
-</p>
+<div align="center">
 
----
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=OaaMatin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=OaaMatin&layout=compact&theme=tokyonight&hide_border=true" />
 
-# 🔥 GitHub Streak
+</div>
 
-<p align="center">
+<br>
 
-<img src="https://streak-stats.demolab.com?user=OaaMatin&theme=tokyonight&hide_border=true"/>
+## 🔥 GitHub Streak
 
-</p>
+<div align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=OaaMatin&theme=tokyonight&hide_border=true" />
 
-# 📊 Contribution Graph
+</div>
 
-<p align="center">
+<br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OaaMatin&theme=tokyo-night"/>
+## 📈 Contribution Graph
 
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OaaMatin&theme=tokyo-night" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+*Always down to talk networks, security, or backend dev — feel free to reach out.*
+
+</div>
