@@ -5,6 +5,11 @@
 # Hi, I'm Matin 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Network+%26+Cybersecurity+Enthusiast;.NET+Developer+in+progress)](https://git.io/typing-svg)
+
+</div>
+
+<div align = "center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matinostadaliakbari)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matinostadaliakbari1385@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Matin_OAA)
